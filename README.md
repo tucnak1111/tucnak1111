@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 ### my skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,ts,git,discord,github,prisma,lua,gcp,mint,next,docker,vercel,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,ts,git,discord,github,prisma,lua,gcp,mint,next,docker,vercel,npm,pnpm,react)](https://skillicons.dev)
 <!--
 **Bloxion/Bloxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
