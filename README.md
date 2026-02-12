@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1061593251498430494?theme=dark&bg=2A3344&animated=false&borderRadius=30px)](https://discord.com/users/1061593251498430494)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1061593251498430494?theme=dark&bg=2A3344&animated=true&borderRadius=20px)](https://discord.com/users/1061593251498430494)
 
 ## Hi there 👋
 
